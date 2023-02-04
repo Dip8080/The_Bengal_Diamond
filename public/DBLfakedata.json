@@ -1,0 +1,386 @@
+[
+    {
+        "stock": 10,
+        "price": 1000,
+        "Diamond_weight": "0.18 Ct",
+        "img": "https://i.ibb.co/HnHcdnK/300188-removebg-preview.png" ,
+        "gold_weight": "1.5 gm",
+        "model_No": "BDLRN501"
+    },
+    {
+        "stock": 20,
+        "price": 2,
+        "Diamond_weight": ".27 Ct",
+        "img": "https://i.ibb.co/0tFnNVp/300219-removebg-preview.png",
+        "gold_weight": "1.6 gm",
+        "model_No": "BDLRN502"
+    },
+    {
+        "stock": 30,
+        "price": 3,
+        "Diamond_weight": ".017 Ct",
+        "img": "https://i.ibb.co/kJ34cKZ/300291-removebg-preview.png",
+        "gold_weight": "2.1 gm",
+        "model_No": "BDLRN503"
+    },
+    {
+        "stock": 40,
+        "price": 4,
+        "Diamond_weight": ".15 Ct",
+        "img": "https://i.ibb.co/Lx4PZpK/300187-removebg-preview.png",
+        "gold_weight": ".14 gm",
+        "model_No": "BDLRN504"
+    },
+    {
+        "stock": 50,
+        "price": 5,
+        "Diamond_weight": ".10 Ct",
+        "img": "https://i.ibb.co/sjgZvQF/300186-removebg-preview.png",
+        "gold_weight": "2.0 gm",
+        "model_No": "BDLRN505"
+    },
+    {
+        "stock": 60,
+        "price": 6,
+        "Diamond_weight": ".13 Ct",
+        "img": "https://i.ibb.co/10bfT5K/300217-218-removebg-preview.png",
+        "gold_weight": "1.15",
+        "model_No": "BDLRN506"
+    },
+    {
+        "stock": 70,
+        "price": 7,
+        "Diamond_weight": ".18 Ct",
+        "img": "https://i.ibb.co/DDZBH7v/300205-removebg-preview.png",
+        "gold_weight": "1.5 gm",
+        "model_No": "BDLRN507"
+    },
+    {
+        "stock": 80,
+        "price": 8,
+        "Diamond_weight": ".15 Ct",
+        "img": "https://i.ibb.co/M5vMfK8/300256-removebg-preview.png",
+        "gold_weight": "1.20 gm",
+        "model_No": "BDLRN508"
+    },
+    {
+        "stock": 90,
+        "price": 9,
+        "Diamond_weight": "0.08 Ct",
+        "img": "https://i.ibb.co/fqXKjf0/300211-removebg-preview.png",
+        "gold_weight": ".82 gm",
+        "model_No": "BDLRN509"
+    },
+    {
+        "stock": 100,
+        "price": 10,
+        "Diamond_weight": ".06 Ct",
+        "img": "https://i.ibb.co/6XK3Dj0/300252-removebg-preview.png",
+        "gold_weight": ".76 gm",
+        "model_No": "BDLRN510"
+    },
+    {
+        "stock": 101,
+        "price": 11,
+        "Diamond_weight": ".10 Ct",
+        "img": "https://i.ibb.co/Xs7hQgX/300207-removebg-preview.png",
+        "gold_weight": ".90 gm",
+        "model_No": "BDLRN511"
+    },
+    {
+        "stock": 102,
+        "price": 12,
+        "Diamond_weight": ".15 Ct",
+        "img": "https://i.ibb.co/J3F4cBg/300199-removebg-preview.png",
+        "gold_weight": "1.20 gm",
+        "model_No": "BDLRN512"
+    },
+    {
+        "stock": 103,
+        "price": 13,
+        "Diamond_weight": ".22 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "2.0 gm",
+        "model_No": "BDLRN513"
+    },
+    {
+        "stock": 104,
+        "price": 14,
+        "Diamond_weight": ".16 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "1.10 gm",
+        "model_No": "BDLRN514"
+    },
+    {
+        "stock": 105,
+        "price": 15,
+        "Diamond_weight": ".12 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "1.3 gm",
+        "model_No": "BDLRN515"
+    },
+    {
+        "stock": 106,
+        "price": 16,
+        "Diamond_weight": ".12 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "2.30 gm",
+        "model_No": "BDLRN516"
+    },
+    {
+        "stock": 107,
+        "price": 17,
+        "Diamond_weight": ".06 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "1.30 gm",
+        "model_No": "BDLRN517"
+    },
+    {
+        "stock": 108,
+        "price": 18,
+        "Diamond_weight": ".21 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "2.00 gm",
+        "model_No": "BDLRN518"
+    },
+    {
+        "stock": 109,
+        "price": 19,
+        "Diamond_weight": ".15 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "1.50 gm",
+        "model_No": "BDLRN519"
+    },
+    {
+        "stock": 200,
+        "price": 20000,
+        "Diamond_weight": ".12 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight":"1.17 gm",
+        "model_No": "BDLRN520"
+    },
+    {
+        "stock": 201,
+        "price": 21000,
+        "Diamond_weight": "0.08 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "1.3 gm",
+        "model_No": "BDLRN521"
+    },
+    {
+        "stock": 202,
+        "price": 22000,
+        "Diamond_weight": ".23 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "2.30 gm",
+        "model_No": "BDLRN522"
+    },
+    {
+        "stock": 203,
+        "price": 23000,
+        "Diamond_weight": ".11 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "1.30 gm",
+        "model_No": "BDLRN523"
+    },
+    {
+        "stock": 204,
+        "price": 24000,
+        "Diamond_weight": ".04 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "1.30 gm",
+        "model_No": "BDLRN524"
+    },
+    {
+        "stock": 205,
+        "price": 25000,
+        "Diamond_weight": ".15 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "2.00 gm",
+        "model_No": "BDLRN525"
+    },
+    {
+        "stock": 206,
+        "price": 26000,
+        "Diamond_weight": ".22 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight":"2.22 gm",
+        "model_No": "BDLRN526"
+    },
+    {
+        "stock": 207,
+        "price": 27000,
+        "Diamond_weight": ".15 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "1.5 gm",
+        "model_No": "BDLRN527"
+    },
+    {
+        "stock": 208,
+        "price": 28000,
+        "Diamond_weight": ".04 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "1.30 gm",
+        "model_No": "BDLRN528"
+    },
+    {
+        "stock": 209,
+        "price": 29000,
+        "Diamond_weight": ".07 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": ".90 gm",
+        "model_No": "BDLRN529"
+    },
+    {
+        "stock": 300,
+        "price": 3000,
+        "Diamond_weight": ".08 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "0.9 gm",
+        "model_No": "BDLRN530"
+    },
+    {
+        "stock": 301,
+        "price": 3100,
+        "Diamond_weight": ".08 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "0.9 gm",
+        "model_No": "BDLRN531"
+    },
+    {
+        "stock": 302,
+        "price": 32000,
+        "Diamond_weight": ".08 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": ".90 gm ",
+        "model_No": "BDLRN532"
+    },
+    {
+        "stock": 303,
+        "price": 3300,
+        "Diamond_weight": ".08 Ct ",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": 8400,
+        "model_No": ".9 gm"
+    },
+    {
+        "stock": 304,
+        "price": 34000,
+        "Diamond_weight": ".12 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": ".90 gm ",
+        "model_No": "BDLRN534"
+    },
+    {
+        "stock": 305,
+        "price": 3500,
+        "Diamond_weight": ".12 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": ".09 gm",
+        "model_No": "BDLRN535"
+    },
+    {
+        "stock": 306,
+        "price": 3600,
+        "Diamond_weight": ".21 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "1.15 gm",
+        "model_No": "BDLRN536"
+    },
+    {
+        "stock": 307,
+        "price": 3700,
+        "Diamond_weight": ".13 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "1.3 gm",
+        "model_No": "BDLRN537"
+    },
+    {
+        "stock": 308,
+        "price": 3800,
+        "Diamond_weight": ".08 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": ".90 gm ",
+        "model_No": "BDLRN538"
+    },
+    {
+        "stock": 309,
+        "price": 3900,
+        "Diamond_weight": ".08 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": ".09 gm",
+        "model_No": "BDLRN539"
+    },
+    {
+        "stock": 400,
+        "price": 4000,
+        "Diamond_weight": ".13 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "2.27 gm",
+        "model_No": "BDLRN540"
+    },
+    {
+        "stock": 401,
+        "price": 4100,
+        "Diamond_weight": ".26 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "1.3 gm",
+        "model_No": "BDLRN541"
+    },
+    {
+        "stock": 402,
+        "price": 4200,
+        "Diamond_weight": ".11 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "3.8 gm",
+        "model_No": "BDLRN542"
+    },
+    {
+        "stock": 403,
+        "price": 4300,
+        "Diamond_weight": ".09 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "1.0 gm",
+        "model_No": "BDLRN543"
+    },
+    {
+        "stock": 404,
+        "price": 4400,
+        "Diamond_weight": ".14 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "1.25 gm",
+        "model_No": "BDLRN544"
+    },
+    {
+        "stock": 405,
+        "price": 4500,
+        "Diamond_weight": ".11 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": ".90 gm ",
+        "model_No": "BDLRN545"
+    },
+    {
+        "stock": 406,
+        "price": 4600,
+        "Diamond_weight": ".04 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "1.0 gm",
+        "model_No": "BDLRN546"
+    },
+    {
+        "stock": 407,
+        "price": 4700,
+        "Diamond_weight": ".08 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": "1.03 gm",
+        "model_No": "BDLRN547"
+    },
+    {
+        "stock": 408,
+        "price": 4800,
+        "Diamond_weight": ".08 Ct",
+        "img": "https://pngimg.com/uploads/hitman/hitman_PNG13.png",
+        "gold_weight": ".89 gm",
+        "model_No": "BDLRN548"
+    }
+]

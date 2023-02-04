@@ -1,0 +1,203 @@
+[
+    {
+        "id": 1,
+        "Diamond_weight": "13 cent",
+        "Diamond_pices": "11",
+        "img": "https://i.ibb.co/xSs1vft/BDL-SN-666-1-1.png" ,
+        "img2": "https://i.ibb.co/C9gJ5vb/BDL-SN-666-1-2.jpg" ,
+        "gross_weight": ".75 gm",
+        "model_No": "BDLRN501"
+    },
+    {
+        "id": 2,
+        "Diamond_weight": "17 cent",
+        "Diamond_pices": " 15",
+        "img": "https://i.ibb.co/KhCyVDw/BDL-SN-666-2-1.jpg",
+        "img2": "https://i.ibb.co/GtrC4Kq/BDL-SN-666-2-2.jpg",
+        "gross_weight": ".97 gm",
+        "model_No": "BDLRN502"
+    },
+    {
+        "id": 3,
+        "Diamond_weight": " 10 cent",
+        "Diamond_pices": " 7",
+        "img": "https://i.ibb.co/fSwbwkW/BDL-SN-666-3-1.jpg",
+        "img2": "https://i.ibb.co/znHNHLY/BDL-SN-666-3-2.jpg",
+        "gross_weight": ".57 gm",
+        "model_No": "BDLRN503"
+    },
+    {
+        "id": 4,
+        "Diamond_weight": " 8 cent",
+        "Diamond_pices": " 6",
+        "img": "https://i.ibb.co/s15zjwF/BDL-SN-666-4-1.jpg",
+        "img2": "https://i.ibb.co/7rVFcfp/BDL-SN-666-4-2.jpg",
+        "gross_weight": ".98 gm",
+        "model_No": "BDLRN504"
+    },
+    {
+        "id": 5,
+        "Diamond_weight": "10 cent",
+        "Diamond_pices": "7",
+        "img": "https://i.ibb.co/JqDXqnP/BDL-SN-666-5-1.jpg",
+        "img2": "https://i.ibb.co/D99qKMJ/BDL-SN-666-5-2.jpg",
+        "gross_weight": ".83 gm",
+        "model_No": "BDLRN505"
+    },
+    {
+        "id": 6,
+        "Diamond_weight": "8 cent",
+        "Diamond_pices": "4",
+        "img": "https://i.ibb.co/zm4XMbw/BDL-SN-666-6-1.jpg",
+        "img2": "https://i.ibb.co/F61Ck9N/BDL-SN-666-6-2.jpg",
+        "gross_weight": ".71 gm",
+        "model_No": "BDLRN506"
+    },
+    {
+        "id": 7,
+        "Diamond_weight": "6 cent",
+        "Diamond_pices": " 3",
+        "img": "https://i.ibb.co/TM3qD2H/BDL-SN-666-7-1.jpg",
+        "img2": "https://i.ibb.co/wYQp46S/BDL-SN-666-7-2.jpg",
+        "gross_weight": ".87 gm",
+        "model_No": "BDLRN507"
+    },
+    {
+        "id": 8,
+        "Diamond_weight": "14 cent",
+        "Diamond_pices": "9 ",
+        "img": "https://i.ibb.co/JpkcPKS/BDL-SN-666-8-1.jpg",
+        "img2" : "https://i.ibb.co/ykHFMfz/BDL-SN-666-8-2.jpg",
+        "gross_weight": ".68 gm",
+        "model_No": "BDLRN508"
+    },
+    {
+        "id": 9,
+        "Diamond_weight": "12 cent",
+        "Diamond_pices": "6",
+        "img": "https://i.ibb.co/0MKNL62/BDL-SN-666-9-1.jpg    ",
+        "img2": "https://i.ibb.co/2YbK9fY/BDL-SN-666-9-2.jpg  ",
+        "gross_weight": ".85 gm",
+        "model_No": "BDLRN509"
+    },
+    { 
+        "id": 10,
+        "Diamond_weight": "12 cent",
+        "Diamond_pices": "1",
+        "img": "https://i.ibb.co/s1QfcX4/BDL-SN-666-10-1.jpg",
+        "img2": "https://i.ibb.co/9YQxnBx/BDL-SN-666-10-2.jpg",
+        "gross_weight": ".85 gm",
+        "model_No": "BDLRN5010"
+    },
+    
+    { 
+        "id": 11,
+        "Diamond_weight": "15 cent",
+        "Diamond_pices": "6",
+        "img": "https://i.ibb.co/ymz4wJy/BDL-SN-666-11-1.jpg",
+        "img2": "https://i.ibb.co/n3NVSm2/BDL-SN-666-11-2.jpg",
+        "gross_weight": ".85 gm",
+        "model_No": "BDLRN5011"
+    },
+    {
+        "id" : 12,
+        "Diamond_weight" : "48  cent ",
+        "Diamond_pices" : "24",
+        "img" : "https://i.ibb.co/yYX6xHg/BDL-SN-666-13-1.jpg",
+        "img2": "https://i.ibb.co/G3kxVpW/BDL-SN-666-13-2.jpg",
+        "gross_weight": ".94 gm",
+        "model_No": "BDLRN5012"
+    
+    },
+    {
+        "id" : 13,
+        "Diamond_weight" : " 15 cent ",
+        "Diamond_pices" : "7",
+        "img" : "https://i.ibb.co/19MqsPk/BDL-SN-666-14-1.jpg",
+        "img2": "https://i.ibb.co/Cw2wYkH/BDL-SN-666-14-2.jpg",
+        "gross_weight": ".89 gm",
+        "model_No": "BDLRN5013"
+    
+    },
+    {
+        "id" : 14,
+        "Diamond_weight" : "10 cent ",
+        "Diamond_pices" : "3",
+        "img" : "https://i.ibb.co/r7MBWrL/BDL-SN-666-17-1.jpg",
+        "img2": "https://i.ibb.co/q5WjG57/BDL-SN-666-17-2.jpg",
+        "gross_weight": "1.2 gm",
+        "model_No": "BDLRN5014"
+    
+    },
+    {
+        "id" : 15,
+        "Diamond_weight" : "14 cent ",
+        "Diamond_pices" : "6",
+        "img" : "https://i.ibb.co/z8sWgbQ/BDL-SN-666-18-1.jpg",
+        "img2": "https://i.ibb.co/BVMDT5Y/BDL-SN-666-18-2.jpg",
+        "gross_weight": ".78 gm",
+        "model_No": "BDLRN5015"
+    
+    },
+    {
+        "id" : 16,
+        "Diamond_weight" : "14 cent ",
+        "Diamond_pices" : "6",
+        "img" : "https://i.ibb.co/z8sWgbQ/BDL-SN-666-18-1.jpg",
+        "img2": "https://i.ibb.co/BVMDT5Y/BDL-SN-666-18-2.jpg",
+        "gross_weight": ".46 gm",
+        "model_No": "BDLRN5016"
+    
+    },
+    {
+        "id" : 17,
+        "Diamond_weight" : "12 cent ",
+        "Diamond_pices" : "6",
+        "img" : "https://i.ibb.co/BqhpTj5/BDL-SN-666-20-1.jpg",
+        "img2": "https://i.ibb.co/wY0V4d4/BDL-SN-666-20-2.jpg",
+        "gross_weight": ".64 gm",
+        "model_No": "BDLRN5017"
+    
+    },
+    {
+        "id" : 18,
+        "Diamond_weight" : "26 cent ",
+        "Diamond_pices" : "21",
+        "img" : "https://i.ibb.co/n8K4Vkm/BDL-SN-666-22-1.jpg",
+        "img2": "https://i.ibb.co/2n0dQDX/BDL-SN-666-22-2.jpg",
+        "gross_weight": ".85 gm",
+        "model_No": "BDLRN5018"
+
+        
+    },
+    {
+        "id" : 19,
+        "Diamond_weight" : "17 cent ",
+        "Diamond_pices" : "15",
+        "img" : "https://i.ibb.co/f8vx4Rz/BDL-SN-666-23-1.jpg",
+        "img2": "https://i.ibb.co/KxhpSK4/BDL-SN-666-23-2.jpg",
+        "gross_weight": ".78 gm",
+        "model_No": "BDLRN5019"
+        
+    },
+    {
+        "id" : 20,
+        "Diamond_weight" : "15 cent ",
+        "Diamond_pices" : "12",
+        "img" : "https://i.ibb.co/0ZRDXJ9/BDL-SN-666-12-1.jpg",
+        "img2": "https://i.ibb.co/wLZPf02/BDL-SN-666-12-2.jpg",
+        "gross_weight": ".65 gm",
+        "model_No": "BDLRN5020"
+    
+    },
+    {
+        "id" : 21,
+        "Diamond_weight" : "21 cent ",
+        "Diamond_pices" : "9",
+        "img" : "https://i.ibb.co/Z26H6p7/BDL-SN-1-24-1.jpg",
+        "img2": "https://i.ibb.co/Z26H6p7/BDL-SN-1-24-1.jpg",
+        "gross_weight": ".46 gm",
+        "model_No": "BDLRN5021"
+    
+    }
+]

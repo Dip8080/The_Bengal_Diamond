@@ -1,0 +1,58 @@
+[
+    {
+        "stock": 10,
+        "price": 1000,
+        "Diamond_weight": "0.18 Ct",
+        "img": "https://i.ibb.co/Xk08CdP/ERRN-1.jpg" ,
+        "gold_weight": "1.5 gm",
+        "model_No": "ERRN501"
+    },
+    {
+        "stock": 20,
+        "price": 2,
+        "Diamond_weight": ".27 Ct",
+        "img": "https://i.ibb.co/ygN5sPv/ERRN-2.png",
+        "gold_weight": "1.6 gm",
+        "model_No": "ERRN502"
+    },
+    {
+        "stock": 30,
+        "price": 3,
+        "Diamond_weight": ".017 Ct",
+        "img": "https://i.ibb.co/Lv997yv/ERRN-3.jpg",
+        "gold_weight": "2.1 gm",
+        "model_No": "ERRN503"
+    },
+    {
+        "stock": 40,
+        "price": 4,
+        "Diamond_weight": ".15 Ct",
+        "img": "https://i.ibb.co/5FYt9MK/ERRN-4.jpg",
+        "gold_weight": ".14 gm",
+        "model_No": "ERRN504"
+    },
+    {
+        "stock": 50,
+        "price": 5,
+        "Diamond_weight": ".10 Ct",
+        "img": "https://i.ibb.co/N2HmTSN/ERRN-5.jpg",
+        "gold_weight": "2.0 gm",
+        "model_No": "ERRN505"
+    },
+    {
+        "stock": 60,
+        "price": 6,
+        "Diamond_weight": ".13 Ct",
+        "img": "https://i.ibb.co/zRVWQvR/ERRN-6.png",
+        "gold_weight": "1.15",
+        "model_No": "ERRN506"
+    },
+    {
+        "stock": 70,
+        "price": 7,
+        "Diamond_weight": ".18 Ct",
+        "img": "https://i.ibb.co/Gt8Rr0H/ERRN-7.png",
+        "gold_weight": "1.5 gm",
+        "model_No": "ERRN507"
+    }
+]

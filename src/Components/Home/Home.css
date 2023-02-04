@@ -1,0 +1,16 @@
+.myButton{
+    background-color: #FBAB7E;
+background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+
+}
+
+.allItem{
+
+    margin-left: 45%;
+}
+
+
+@media only screen and (max-width:625px){
+   .allItem{
+       margin-left: 38%;
+    }}

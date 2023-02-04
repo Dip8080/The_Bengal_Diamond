@@ -1,0 +1,9 @@
+.nsImg{
+    position: relative;
+    left: 10%;
+}
+
+@media only screen and (max-width:687px){
+    .nsImg{
+       left: 10%;
+    }}

@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "Diamond_weight": "25 cent",
+        "Diamond_pices": "25",
+        "img": "https://i.ibb.co/7STq8Cc/300364.jpg" ,
+        "img2": "https://i.ibb.co/7STq8Cc/300364.jpg" ,
+        "gross_weight": ".75 gm",
+        "model_No": "FNCYRN501"
+    },
+    {
+        "id": 2,
+        "Diamond_weight": "50 cent",
+        "Diamond_pices": " 38",
+        "img": "https://i.ibb.co/nfkV87h/300365-368-377.png",
+        "img2": "https://i.ibb.co/nfkV87h/300365-368-377.png",
+        "gross_weight": ".97 gm",
+        "model_No": "FNCYRN502"
+    },
+    {
+        "id": 3,
+        "Diamond_weight": " 18 cent",
+        "Diamond_pices": " 25",
+        "img": "https://i.ibb.co/k89R2mg/300366.png",
+        "img2": "https://i.ibb.co/k89R2mg/300366.png",
+        "gross_weight": ".57 gm",
+        "model_No": "FNCYRN503"
+    },
+    {
+        "id": 4,
+        "Diamond_weight": "18 cent",
+        "Diamond_pices": " 34",
+        "img": "https://i.ibb.co/FwR08Nq/300369-copy.png",
+        "img2": "https://i.ibb.co/FwR08Nq/300369-copy.png",
+        "gross_weight": ".98 gm",
+        "model_No": "FNCYRN504"
+    },
+    {
+        "id": 5,
+        "Diamond_weight": "30 cent",
+        "Diamond_pices": "31",
+        "img": "https://i.ibb.co/RTWVcf0/SGLBDJ300370-372-1.png",
+        "img2": "https://i.ibb.co/RTWVcf0/SGLBDJ300370-372-1.png",
+        "gross_weight": ".83 gm",
+        "model_No": "FNCYRN505"
+    },
+    {
+        "id": 6,
+        "Diamond_weight": "22 cent",
+        "Diamond_pices": "30",
+        "img": "https://i.ibb.co/tmVWCSr/300378.png",
+        "img2": "https://i.ibb.co/tmVWCSr/300378.png",
+        "gross_weight": ".71 gm",
+        "model_No": "FNCYRN506"
+    },
+    {
+        "id": 7,
+        "Diamond_weight": "23 cent",
+        "Diamond_pices": " 37",
+        "img": "https://i.ibb.co/DQcJMrM/300375-copy.png",
+        "img2": "https://i.ibb.co/DQcJMrM/300375-copy.png",
+        "gross_weight": ".87 gm",
+        "model_No": "FNCYRN507"
+    },
+    {
+        "id": 8,
+        "Diamond_weight": "14 cent",
+        "Diamond_pices": "24 ",
+        "img": "https://i.ibb.co/34gLkFG/300376.png",
+        "img2": "https://i.ibb.co/34gLkFG/300376.png",
+        "gross_weight": ".68 gm",
+        "model_No": "FNCYRN508"
+    },
+    {
+        "id": 9,
+        "Diamond_weight": "38 cent",
+        "Diamond_pices": "25",
+        "img": "https://i.ibb.co/vw5vgt4/300378-removebg-preview.png",
+        "img2": "https://i.ibb.co/vw5vgt4/300378-removebg-preview.png",
+        "gross_weight": ".85 gm",
+        "model_No": "FNCYRN509"
+    },
+    {
+    "id": 10,
+    "Diamond_weight": "25 cent",
+    "Diamond_pices": "25",
+    "img": "https://i.ibb.co/jzynZQq/nosepin5-1.jpg" ,
+    "img2": "https://i.ibb.co/bd7fqn7/nosepin5-2.jpg"  ,
+    "gross_weight": ".75 gm",
+    "model_No": "FNCYRN501"
+},
+{
+    "id": 11,
+    "Diamond_weight": "50 cent",
+    "Diamond_pices": " 38",
+    "img": "https://i.ibb.co/MN5q0Vg/nosepin-15-1.jpg",
+    "img2":"https://i.ibb.co/rft7MKg/nosepin-15-2.jpg",
+    "gross_weight": ".97 gm",
+    "model_No": "FNCYRN502"
+},
+{
+    "id": 12,
+    "Diamond_weight": " 18 cent",
+    "Diamond_pices": " 25",
+    "img": "https://i.ibb.co/3zXJQyR/nosepin-3-1.jpg",
+    "img2": "https://i.ibb.co/mJz98Mv/nosepin-3-2.jpg",
+    "gross_weight": ".57 gm",
+    "model_No": "FNCYRN503"
+},
+{
+    "id": 13,
+    "Diamond_weight": "18 cent",
+    "Diamond_pices": " 34",
+    "img": "https://i.ibb.co/YTWT1wC/nosepin-4-1.jpg",
+    "img2": "https://i.ibb.co/3cvBfsn/nosepin-4-2.jpg",
+    "gross_weight": ".98 gm",
+    "model_No": "FNCYRN504"
+},
+{
+    "id": 14,
+    "Diamond_weight": "30 cent",
+    "Diamond_pices": "31",
+    "img": "https://i.ibb.co/f4490b1/nosepin-6-1.jpg",
+    "img2": "https://i.ibb.co/RNbCBgz/nosepin-6-2.jpg",
+    "gross_weight": ".83 gm",
+    "model_No": "FNCYRN505"
+},
+{
+    "id": 15,
+    "Diamond_weight": "22 cent",
+    "Diamond_pices": "30",
+    "img": "https://i.ibb.co/MGz3KLK/nosepin-7-1.jpg",
+    "img2": "https://i.ibb.co/9bQFmsn/nosepin-7-2.jpg",
+    "gross_weight": ".71 gm",
+    "model_No": "FNCYRN506"
+},
+{
+    "id": 16,
+    "Diamond_weight": "23 cent",
+    "Diamond_pices": " 37",
+    "img": "https://i.ibb.co/4tD3HjW/nosepin-8-1.jpg",
+    "img2": "https://i.ibb.co/ZBP2YZK/nosepin-8-2.jpg",
+    "gross_weight": ".87 gm",
+    "model_No": "FNCYRN507"
+},
+{
+    "id": 17,
+    "Diamond_weight": "14 cent",
+    "Diamond_pices": "24 ",
+    "img": "https://i.ibb.co/99jrTJJ/nosepin-9-1.jpg",
+    "img2": "https://i.ibb.co/98wfZ6s/nosepin-9-2.jpg",
+    "gross_weight": ".68 gm",
+    "model_No": "FNCYRN508"
+},
+{
+    "id": 18,
+    "Diamond_weight": "38 cent",
+    "Diamond_pices": "25",
+    "img": "https://i.ibb.co/3zGpSMq/nosepin-11-1.jpg",
+    "img2": "https://i.ibb.co/CPJXTBt/nosepin-11-2.jpg",
+    "gross_weight": ".45 gm",
+    "model_No": "FNCYRN509"
+},
+{
+    "id": 19,
+    "Diamond_weight": "28 cent",
+    "Diamond_pices": "25",
+    "img": "https://i.ibb.co/1qngn3r/nosepin-12-1.jpg",
+    "img2": "https://i.ibb.co/1qngn3r/nosepin-12-1.jpg",
+    "gross_weight": ".78 gm",
+    "model_No": "FNCYRN510"
+},
+{
+    "id": 20,
+    "Diamond_weight": "28 cent",
+    "Diamond_pices": "25",
+    "img": "https://i.ibb.co/7n4gg2f/nosepin-14-1.jpg",
+    "img2": "https://i.ibb.co/7n4gg2f/nosepin-14-1.jpg",
+    "gross_weight": ".78 gm",
+    "model_No": "FNCYRN510"
+}
+]

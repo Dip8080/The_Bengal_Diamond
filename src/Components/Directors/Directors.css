@@ -1,0 +1,30 @@
+.dir{
+    height: 200px;
+
+}
+
+.h_one{
+    padding-bottom:  2%; ;
+}
+.btnAlldir{
+    margin-left: 70%;
+    margin-top: 5%;
+
+}
+
+
+@media only screen and (max-width:687px){
+    .allDir{
+        margin-left: 4%;
+        
+    }
+    .h_one{
+        padding-left: 2vh;
+    }
+    .btnAlldir{
+        margin-left: .5%;
+        margin-top: 2%;
+    
+    }
+   
+}
